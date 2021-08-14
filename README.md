@@ -1,4 +1,4 @@
-<body style="background-color:blue;">
+<body style="background-color:darkblue;">
 
 
 # MicroPsia_box
