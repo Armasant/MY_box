@@ -1,5 +1,3 @@
-<body style="background-color:rgb(155, 10, 200);">
-
 # MacroPsia
 
 Hi I'm Armando Santaniello form Italy,
