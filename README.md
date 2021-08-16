@@ -5,8 +5,8 @@
 
 # MacroPsia
 
-Hi I'm Armando Santaniello form Italy,
-I'm sound designer and elecroacoutis music performer graduated from the conservatory of Avellino (ITALY), My work is to deal with the creation of interactive sound installations in collaboration with the Collettivo AGATA
+Hi I'm Armando Santaniello from Italy,
+I'm sound designer and elecroacoutis music performer, graduated from the conservatory of Avellino (ITALY), My work is to deal with the creation of interactive sound installations in collaboration with  Collettivo AGATA
 
 MacroPsia is a Box of contents made with p5Js and  processing per android, that they would like to emphasize the distorted perceptions caused by  pandemic started in 2020.
    
