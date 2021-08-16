@@ -2,7 +2,7 @@
 <body style="background-color:rgb(155, 10, 200);">
 
 
-   ## MacroPsia
+ # MacroPsia
 
  Hi I'm Armando Santaniello form Italy,
 I'm sound designer and elecroacoutis music performer graduated from the conservatory of Avellino (ITALY), My work is to deal with the creation of interactive sound installations in collaboration with the Collettivo AGATA
