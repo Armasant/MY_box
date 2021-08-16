@@ -1,4 +1,3 @@
-<p><b>
 <body style="background-color:rgb(155, 10, 200);">
 
 - # MacroPsia
@@ -20,4 +19,4 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
   https://armasant.github.io/MicroPsia_box/THEBOX
 
    
-</b></p>
+
