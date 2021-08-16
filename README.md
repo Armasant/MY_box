@@ -1,4 +1,7 @@
-<h1 style="background-color:rgba(255, 99, 71, 0);">rgba(155, 0, 155, 0)</h1>
+<html>
+<body style="background-color:rgba(255, 99, 71, 0);">
+
+
 
 # MacroPsia
 
@@ -26,3 +29,5 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
 
    
 
+</body>
+</html>
