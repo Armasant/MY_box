@@ -13,18 +13,14 @@ In this page i will shares diffrent codes done by myself and other codes created
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound with each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
 
 
-<iframe src="https://editor.p5js.org/Armandos/full/m-T5PyoyO" style = "height: 30%; width: 100%; border: none;"></iframe>
+<iframe src=" https://preview.p5js.org/Armandos/present/m-T5PyoyO" style = "height: 30%; width: 100%; border: none;"></iframe>
   
  
    
    
    
    
-   
- 
- 
- 
- 
+    
  
  [lo_fi particles](https://armasant.github.io/MicroPsia_box/THEBOX)
 
