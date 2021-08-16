@@ -10,7 +10,7 @@ I adopted the name of this disorder to summarize people's difficult perception o
 In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an   interactive sound part.
 
 ### Barriers 
-Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound with each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
+Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
 
 
 <iframe src=" https://preview.p5js.org/Armandos/present/m-T5PyoyO" style = "height: 30%; width: 100%; border: none;"></iframe>
