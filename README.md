@@ -1,8 +1,6 @@
 <html>
 <body style="background-color:rgba(255, 99, 71, 0);">
 
-
-
 # MacroPsia
 
 Hi I'm Armando Santaniello from Italy,
