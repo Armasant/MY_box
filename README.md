@@ -22,6 +22,8 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
    
     
  
+ 
+ 
  [lo_fi particles](https://armasant.github.io/MicroPsia_box/THEBOX)
 
    
