@@ -22,7 +22,7 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
 ### Nucleus  
 Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which I added an interactive poliphonic sound synthesis, if u move the mouse you can produces sound and add effects on it.... 
   
-<iframe src= " https://preview.p5js.org/Armandos/present/h8spsf6qR " style = "height: 40%; width: 80%; border: none;"></iframe>
+
   
  
  
