@@ -13,7 +13,7 @@ In this page i will shares diffrent codes done by myself and other codes created
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
 
 
-<iframe src=" https://preview.p5js.org/Armandos/present/m-T5PyoyO" style = "height: 30%; width: 100%; border: none;"></iframe>
+<iframe src=" https://preview.p5js.org/Armandos/present/m-T5PyoyO" style = "height: 40%; width: 80%; border: none;"></iframe>
   
  
 [barriers](https://armasant.github.io/MY_box/barriers)   
