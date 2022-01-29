@@ -17,7 +17,7 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
  
  
  
-Link_ [barriers](https://armasant.github.io/MY_box/barriers)   
+Link_ [barriers](https://editor.p5js.org/Armandos/sketches/ZuJm2n7EW) 
    
    
 
@@ -33,7 +33,7 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
  https://editor.p5js.org/Armandos/full/h8spsf6qR
  
  
-  Link_ [Nucleus](https://armasant.github.io/MY_box/nucleus)
+  Link_ [Nucleus](https://editor.p5js.org/Armandos/sketches/h8spsf6qR)
 
    
   
