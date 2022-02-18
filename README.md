@@ -41,7 +41,7 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
 
 
 
-### Mecroseq 
+### Macroseq 
 Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to witch I added an interactive glitch Sound file that changehs pitch on x and y axis
 <iframe src="https://armasant.github.io/Micropsia/Macroseq/" style = "height: 100%; width: 100%; border: none;"></iframe>
  
@@ -51,7 +51,7 @@ Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to w
 
 
 
-###Micropsia_surrogated
+### Micropsia_surrogated
 The song comes from a reworked Live performance. In the various parts the same sound seed investigates and expresses itself in its microscopic and macroscopic qualities.
 The composition is accompanied by an abstract video of the musical instrument taken with a digital microscope, which is revealed when its sound nature can be perceived.
 
