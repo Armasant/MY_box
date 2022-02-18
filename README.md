@@ -3,11 +3,17 @@
 Hi I'm Armando Santaniello from Italy,
 I'm sound designer and elecroacoutis music performer, graduated from the conservatory of Avellino (ITALY), My work is to deal with the creation of interactive sound installations in collaboration with  Collettivo AGATA
 
-MacroPsia is a Box of contents made with p5Js and  processing per android, that they would like to emphasize the distorted perceptions caused by  pandemic started in 2020.
+MacroPsia is a content box that includes scripts made with p5J and electroacoustic compositions, in which I try to summarize some characteristics related to the distorted pitch of reality caused by the pandemic.
    
-Macropsia is a neurological condition that affects human visual perception, whereby objects appear larger than they really are,
-I adopted the name of this disorder to summarize people's difficult perception of the new social and moral rules introduced by the world pandemic.
-In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an   interactive sound part.
+Catastrophic events on an international scale, inequalities of rights
+human, The climate with the minutes counted, "legitimate" coercion implemented
+from states around the world, they are not just representative elements
+of a fantastic novel of the early 1900s, but they create the context in which mankind moves its steps today.
+The global pandemic was just the impetus that produced a stream of news that fueled different interpretations
+of reality.
+At least for a moment each individual had an uncertainty or a distorted vision of things, a large part of society seemed to be affected by Micropsia, a neurological vision disorder that makes the observed objects perceive smaller than the real ones, and it is the opposite. to Macropsia, in which the objects are larger.
+
+In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part.
 
 ### Barriers 
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
