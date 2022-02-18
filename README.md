@@ -5,15 +5,11 @@ I'm sound designer and elecroacoutis music performer, graduated from the conserv
 
 MacroPsia is a content box that includes scripts made with p5J and electroacoustic compositions, in which I try to summarize some characteristics related to the distorted pitch of reality caused by the pandemic.
    
-Catastrophic events on an international scale, inequalities of rights
-human, The climate with the minutes counted, "legitimate" coercion implemented
-from states around the world, they are not just representative elements
-of a fantastic novel of the early 1900s, but they create the context in which mankind moves its steps today.
-The global pandemic was just the impetus that produced a stream of news that fueled different interpretations
-of reality.
-At least for a moment each individual had an uncertainty or a distorted vision of things, a large part of society seemed to be affected by Micropsia, a neurological vision disorder that makes the observed objects perceive smaller than the real ones, and it is the opposite. to Macropsia, in which the objects are larger.
+Catastrophic events on an international scale, inequalities of human rights, time out for the climate, "legitimate" coercion implemented from states around the world, they are not just representative elements of a fantastic novel from the early 1900s, but all this create the context in which mankind moves its steps today.
+The global pandemic was just the impetus that produced a stream of news that fueled different interpretations of reality.
+Even for just a moment each individual had an uncertainty or a distorted vision of things, a large part of society seemed to be affected by Micropsia, a neurological vision disorder that makes the observed objects perceive smaller than the real ones, and it is the opposite. to Macropsia, in which the objects are larger.
 
-In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part.
+In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part. 
 
 ### Barriers 
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
