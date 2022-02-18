@@ -11,6 +11,8 @@ Even for just a moment each individual had an uncertainty or a distorted vision 
 
 In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part. 
 
+
+
 ### Barriers 
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
 
@@ -22,6 +24,8 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
 Link_ [barriers](https://editor.p5js.org/Armandos/sketches/ZuJm2n7EW) 
    
    
+
+
 
 
 
@@ -41,11 +45,16 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
 
 
 
+
+
+
 ### Macroseq 
 Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to witch I added an interactive glitch Sound file that changehs pitch on x and y axis
 <iframe src="https://armasant.github.io/Micropsia/Macroseq/" style = "height: 100%; width: 100%; border: none;"></iframe>
  
  Link_ [Nucleus](https://editor.p5js.org/Armandos/sketches/nh9fG6GxG)
+
+
 
 
 
