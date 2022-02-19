@@ -68,6 +68,4 @@ The composition is accompanied by an abstract video of the musical instrument ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGTyQ-On7yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![image alt text](https://www.youtube.com/embed/LGTyQ-On7yY)
-
 [link text](https://www.youtube.com/embed/LGTyQ-On7yY)
