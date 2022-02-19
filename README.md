@@ -23,10 +23,13 @@ Barrier is a scripting made with p5js in which a bouncing sphere produces a rand
  
  
 Link_ [barriers](https://editor.p5js.org/Armandos/sketches/ZuJm2n7EW) 
-   
-   
 
-
+-
+-
+-
+-
+-   
+   
 
 
 
@@ -44,6 +47,8 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
 -
 -
 -
+-
+-
 
 
 
@@ -54,16 +59,11 @@ Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to w
 Link_ [Macroseq](https://editor.p5js.org/Armandos/sketches/nh9fG6GxG)
 
 
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
 
 
 
