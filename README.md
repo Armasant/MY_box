@@ -68,6 +68,6 @@ The composition is accompanied by an abstract video of the musical instrument ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGTyQ-On7yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/www.youtube.com/watch?v=https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)](http://www.youtube.com/watch?v=www.youtube.com/watch?v=https://www.youtube.com/embed/LGTyQ-On7yY "Micropsia_Surrogated")
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/LGTyQ-On7yY) 
