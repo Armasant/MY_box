@@ -11,7 +11,8 @@ Even for just a moment each individual had an uncertainty or a distorted vision 
 
 In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part. 
 
-### If you tap the page Sound will be generated
+###                                                                 Tap to generate Sound
+
 
 ### Barriers 
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
