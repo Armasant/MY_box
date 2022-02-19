@@ -70,4 +70,4 @@ The composition is accompanied by an abstract video of the musical instrument ta
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/LGTyQ-On7yY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/LGTyQ-On7yY) 
