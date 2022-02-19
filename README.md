@@ -67,4 +67,4 @@ The composition is accompanied by an abstract video of the musical instrument ta
 
 
 
-[Micropsia_Surrogated_Video](https://www.youtube.com/embed/LGTyQ-On7yY)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)]
