@@ -11,7 +11,7 @@ Even for just a moment each individual had an uncertainty or a distorted vision 
 
 In this page i will shares diffrent codes done by myself and other codes created by different artists, which I found on the net, to which I added an  interactive sound part. 
 
-###  -------------------------------------------------------------TAP TO GENERATE AND INTERACT WITH  SOUND ----------------------------------------------------------------------------
+###  --------------------------------------------------------------------TAP TO GENERATE AND INTERACT WITH  SOUND ----------------------------------------------------------------------------
 
 
 ### Barriers 
