@@ -17,7 +17,7 @@ In this page i will shares diffrent codes done by myself and other codes created
 Barrier is a scripting made with p5js in which a bouncing sphere produces a random pitch sound at each impact with the barriers, the interaction with the mouse or the fingers will add different processing to the sound.
 
 
-<iframe src=" https://armasant.github.io/Micropsia/barriers/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src=" https://armasant.github.io/Micropsia/BARRIERS__/" style = "height: 100%; width: 100%; border: none;"></iframe>
  
  
  
