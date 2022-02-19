@@ -73,10 +73,5 @@ Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to w
 The song comes from a reworked Live performance. In the various parts the same sound seed investigates and expresses itself in its microscopic and macroscopic qualities.
 The composition is accompanied by an abstract video of the musical instrument taken with a digital microscope, which is revealed when its sound nature can be perceived.
 
+<iframe src="https://www.youtube.com/embed/LGTyQ-On7yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[![Micropsia_Surrogated](https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg/0.jpg)]
-
-
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ https://www.youtube.com/embed/LGTyQ-On7yY/0.jpg)]
