@@ -50,7 +50,7 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
 
 ### Macroseq 
 Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to witch I added an interactive glitch Sound file that changehs pitch on x and y axis
-<iframe src="https://armasant.github.io/Micropsia/Macroseq/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://armasant.github.io/Micropsia/Macroseq_/" style = "height: 100%; width: 100%; border: none;"></iframe>
  
  Link_ [Macroseq](https://editor.p5js.org/Armandos/sketches/nh9fG6GxG)
 
