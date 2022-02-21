@@ -1,9 +1,8 @@
 # MacroPsia
 
-Hi I'm Armando Santaniello from Italy,
-I'm sound designer and elecroacoutis music performer, graduated from the conservatory of Avellino (ITALY), My work is to deal with the creation of interactive sound installations in collaboration with  Collettivo AGATA
 
-MacroPsia is a content box that includes scripts made with p5J and electroacoustic compositions, in which I try to summarize some characteristics related to the distorted pitch of reality caused by the pandemic.
+
+MacroPsia is a  multimedia project whos content includes scripts made with p5J and electroacoustic compositions, in which I try to summarize some characteristics related to the distorted pitch of reality caused by the pandemic.
    
 Catastrophic events on an international scale, inequalities of human rights, time out for the climate, "legitimate" coercion implemented from states around the world, they are not just representative elements of a fantastic novel from the early 1900s, but all this create the context in which mankind moves its steps today.
 The global pandemic was just the impetus that produced a stream of news that fueled different interpretations of reality.
@@ -29,10 +28,7 @@ Link_ [barriers](https://editor.p5js.org/Armandos/sketches/ZuJm2n7EW)
 -
 -
 -   
-   
-
-
-
+ 
 ### Nucleus  
 Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which I added an interactive poliphonic sound synthesis, if u move the mouse you can produces sound and add effects on it.... 
   
@@ -43,29 +39,22 @@ Nucleus it's a codes Made by Konstantin Makhmutov Called Wobbly Swarm, to which 
  https://editor.p5js.org/Armandos/full/h8spsf6qR
  Link_ [Nucleus](https://editor.p5js.org/Armandos/sketches/h8spsf6qR)
 
-
 -
 -
 -
 -
 -
-
-
-
 
 ### Macroseq 
 Macroseq it's a code Made by Fernando Guillen, it' s a generative sequencer to witch I added an interactive glitch Sound file that changehs pitch on x and y axis
-<iframe src="https://armasant.github.io/Micropsia/Macroseq_2/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://armasant.github.io/Micropsia/Macroseq_/" style = "height: 100%; width: 100%; border: none;"></iframe>
 Link_ [Macroseq](https://editor.p5js.org/Armandos/sketches/nh9fG6GxG)
 
-
 -
 -
 -
 -
 -
-
-
 
 ### Micropsia_surrogated
 The song comes from a reworked Live performance. In the various parts the same sound seed investigates and expresses itself in its microscopic and macroscopic qualities.
